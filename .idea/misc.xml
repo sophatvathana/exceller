@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../commons" value="8929244610000" />
+        <entry key="$PROJECT_DIR$/../../sbt-actor-api" value="1433939044000" />
+        <entry key="$PROJECT_DIR$/../../sbt-toschat-api" value="1488451382000" />
+        <entry key="$PROJECT_DIR$/../../untitled folder 2/actor-server" value="1488421210000" />
+        <entry key="$PROJECT_DIR$/../../untitled folder 2/toschat-server" value="1488361399000" />
+        <entry key="$PROJECT_DIR$/../../untitled folder 3/actor-server" value="1488452485000" />
+        <entry key="$PROJECT_DIR$/../../untitled folder 3/toschat-server" value="1488452485000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+</project>
