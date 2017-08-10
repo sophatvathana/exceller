@@ -1,8 +1,8 @@
-package com.nanita.exceller.test;
+package com.github.sophatvathana.exceller.test;
 
-import com.nanita.exceller.MapField;
-import com.nanita.exceller.MapObject;
-import com.nanita.exceller.Type;
+import com.github.sophatvathana.exceller.MapField;
+import com.github.sophatvathana.exceller.MapObject;
+import com.github.sophatvathana.exceller.Type;
 
 import java.util.Date;
 

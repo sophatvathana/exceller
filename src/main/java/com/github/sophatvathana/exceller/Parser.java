@@ -1,4 +1,4 @@
-package com.nanita.exceller;
+package com.github.sophatvathana.exceller;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
@@ -21,7 +21,7 @@ import org.apache.poi.ss.usermodel.Sheet;
 import lombok.AccessLevel;
 import lombok.experimental.FieldDefaults;
 
-import static com.nanita.exceller.MapHelper.getRow;
+import static com.github.sophatvathana.exceller.MapHelper.getRow;
 
 @FieldDefaults(level = AccessLevel.PRIVATE, makeFinal = true)
 public class Parser {

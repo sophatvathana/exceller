@@ -1,6 +1,6 @@
-package com.nanita.exceller.test;
+package com.github.sophatvathana.exceller.test;
 
-import com.nanita.exceller.Parser;
+import com.github.sophatvathana.exceller.Parser;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
