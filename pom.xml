@@ -23,7 +23,7 @@
         <connection>scm:git:git@github.com/sophatvathana/exceller.git</connection>
         <developerConnection>scm:git:git@github.com/sophatvathana/exceller.git</developerConnection>
         <url>https://github.com/sophatvathana/exceller</url>
-      <tag>exceller-1.0</tag>
+        <tag>exceller-1.0</tag>
   </scm>
 
     <developers>
